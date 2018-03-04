@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" name="header-animation" version="1">
+
+<description type="text/html"><![CDATA[Widget Exported from Flash Professional]]></description>
+
+<category name="Flash Animation"/>
+<remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+<icon src="PosterImg_986.png" width="1920" height="698"/>
+<require type="other" src="header-animation.html"/>
+<require type="javascript" src="header-animation.js"/>
+<require type="other" src="images/200x200.gif"/>
+<require type="other" src="images/35X35.gif"/>
+<require type="other" src="images/400x400.gif"/>
+<require type="image" src="images/background-box.jpg"/>
+<require type="image" src="images/header-image01.jpg"/>
+<require type="image" src="images/ImgResponsive_Placeholder.png"/>
+<require type="image" src="images/oplus-bunner.jpg"/>
+<require type="image" src="images/oplus-renual-dtp.jpg"/>
+<require type="image" src="images/smartphone-header01.jpg"/>
+<require type="image" src="images/Thumbnail_Placeholder.png"/>
+<require type="other" src="images/_notes/dwsync.xml"/>
+<require type="folder" src="images"/>
+<require type="folder" src="images/_notes"/>
+<content></content>
+
+<properties name="Properties">
+<property name="default-width" defaultValue="1920" hidden="true"/>
+<property name="default-height" defaultValue="698" hidden="true"/>
+<property name="resizable" defaultValue="true" hidden="true"/>
+<property name="centering" defaultValue="" hidden="true"/>
+<property name="scaling" defaultValue="both" hidden="true"/>
+<property name="html-page" defaultValue="header-animation.html" hidden="true"/>
+<property name="target-platform" defaultValue="htmlcanvas" hidden="true"/>
+<property name="created-in" defaultValue="Adobe Animate CC" hidden="true"/>
+</properties>
+
+</widget>
