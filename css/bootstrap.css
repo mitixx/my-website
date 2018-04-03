@@ -6797,7 +6797,7 @@ button.close {
 }
 
 .profile {
-	background-color: #E7FF2D;
+	background-color: #ffffff;
 	padding-bottom: 12px;
 }
 
@@ -6814,7 +6814,7 @@ button.close {
 }
 
 .contact {
-	background-color:#FFF86C;
+	background-image: url('../images/contact-bg.jpg');
 }
 .cneterb {
 	background-color: #FFD42A;
@@ -6826,8 +6826,8 @@ button.close {
 }
 
 .btn1 {
-	background-color : #ED0A5B;
-	border-radius : 50px;
+	background-color : #0cd7f2;
+	/*border-radius : 50px;*/
 	color: #FFFFFF;
 	text-align:center;
 	margin-right: 32px;
@@ -6845,24 +6845,24 @@ button.close {
 		margin-bottom: 8px;
 		margin-right:4px;
 		padding-left:6px;
-		border-radius:6px;
+		/*border-radius:6px;*/
 		width:30%
 	}
 }
 
 .btn2 {
-	background-color:#ED0A5B;
+	background-color:#f25d4d;
 	color:#FFFFFF;
 	width:300px;
 	height:80px;
-	border-radius:20px;
+	/*border-radius:20px;*/
 	border:none;
 	}
 
 @media screen and (max-width: 767px) {
 	.btn2,.bgbt{
 	font-size: 22px;
-	border-radius: 6px;
+	/*border-radius: 6px;*/
 	width: 80%;
 	}
 }
@@ -6924,12 +6924,12 @@ a img {
 
 .ft2{
   color:#ffffff;
-  background-color: #3A0055;
+  background-color: #153a78;
 }
 
 @media screen and (min-width: 1026px){
 .profile{
-  background-color: #E7FF2D;
+  background-color: #fff;
 }
 
 .gallery{
@@ -6945,4 +6945,10 @@ a img {
 /*reCAPTCHA*/
 .g-recaptcha > div{
   margin:24px auto;
+}
+
+/*back-ground*/
+header{
+  background-image:url('../images/top-bg.jpg');
+  background-attachment: fixed;
 }
