@@ -6955,3 +6955,10 @@ header{
   background-image:url('../images/top-bg.jpg');
   background-attachment: fixed;
 }
+
+/*menu*/
+.menu-c{
+  color:white;
+  padding-right: 4em;
+  font-size:18px;
+}
