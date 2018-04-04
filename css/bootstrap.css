@@ -4965,7 +4965,7 @@ a.badge:focus {
 	padding-top: 30px;
 	padding-bottom: 30px;
 	color: inherit;
-	background-color: #eee;
+	/*background-color: #eee;*/
 }
 .jumbotron h1,
 .jumbotron .h1 {
@@ -4991,18 +4991,20 @@ a.badge:focus {
 
 
 @media screen and (max-width: 1025px){
+  /*
   .jumbotron {
   padding-top: 30px;
   padding-bottom: 30px;
   color: inherit;
   background-image: url("/images/smartphone-header01.jpg");
   display: none;
-} 
+}
 .jumbotron h1,
 .jumbotron .h1 {
   color: inherit;
   display: none;
 }
+*/
 .jumbotron p {
   margin-bottom: 15px;
   font-size: 21px;
@@ -5012,10 +5014,11 @@ a.badge:focus {
 }
 
 @media screen and (min-width: 1026px) {
- .smjb{
+/*
+  .smjb{
     display: none;
   }
-
+*/
   .jumbotron {
 	padding-top: 150px;
 	padding-bottom: 150px;
