@@ -1,0 +1,8 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mitixx/my-website.git",
+  "author": "未知 <haruokame05@yahoo.co.jp>",
+  "license": "MIT"
+}
