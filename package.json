@@ -4,5 +4,14 @@
   "main": "index.js",
   "repository": "https://github.com/mitixx/my-website.git",
   "author": "未知 <haruokame05@yahoo.co.jp>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start:dev":"webpack-dev-server"
+  },
+  "devDependencies": {
+    "stylus": "^0.54.5",
+    "webpack": "^4.5.0",
+    "webpack-cli": "^2.0.14",
+    "webpack-dev-server": "^3.1.1"
+  }
 }
