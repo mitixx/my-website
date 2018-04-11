@@ -1,0 +1,153 @@
+.menu {
+  display: block;
+  padding-top: 26px;
+  padding-right: 26px;
+  padding-left: 26px;
+  padding-bottom: 26px;
+}
+.profile {
+  background-color: #fff;
+  padding-bottom: 12px;
+}
+.profile2 {
+  background-color: #5ad8ba;
+  height: 42px;
+  margin-bottom: 12px;
+}
+.works {
+  background-color: #fcfcfc;
+  padding-bottom: 32px;
+  height: 600px;
+}
+.contact {
+  background-image: url("../images/contact-bg.jpg");
+}
+.cneterb {
+  background-color: #ffd42a;
+  height: 170px;
+}
+.main {
+  background-image: url("../images/background-box.jpg");
+}
+.btn1 {
+  background-color: #0cd7f2;
+/*border-radius : 50px;*/
+  color: #fff;
+  text-align: center;
+  margin-right: 32px;
+  padding-top: 12px;
+  padding-right: 32x;
+  padding-left: 32px;
+  padding-bottom: 12px;
+  width: 200px;
+}
+@media screen and (max-width: 767px) {
+  .btn1,
+  .btn-lg {
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 8px;
+    margin-right: 4px;
+    padding-left: 6px;
+/*border-radius:6px;*/
+    width: 30%;
+  }
+}
+.btn2 {
+  background-color: #f25d4d;
+  color: #fff;
+  width: 300px;
+  height: 80px;
+/*border-radius:20px;*/
+  border: none;
+}
+@media screen and (max-width: 767px) {
+  .btn2,
+  .bgbt {
+    font-size: 22px;
+/*border-radius: 6px;*/
+    width: 80%;
+  }
+}
+.mr {
+  padding-bottom: 32px;
+  background-color: #fff;
+}
+.pr {
+  margin-bottom: 62px;
+}
+.tagb {
+  background-color: #fff;
+  padding-bottom: 32px;
+}
+.bgbt {
+  font-size: 32px;
+}
+.fade-in {
+  opacity: 0.5;
+}
+a img {
+  transition: opacity 0.3s ease-out;
+}
+.panel2 {
+  margin-bottom: 20px;
+  background-color: #fff;
+}
+#works {
+  background-color: #fff;
+}
+#info {
+  padding-bottom: 68px;
+}
+.form-horizontal {
+  width: 76%;
+}
+.footer {
+  width: 100%;
+  background-color: #f67373;
+}
+.white {
+  background-color: #fff;
+}
+.shadow {
+  background-color: #5ad8ba;
+  padding-bottom: 24px;
+}
+.ft2 {
+  color: #fff;
+  background-color: #153a78;
+}
+@media screen and (min-width: 1026px) {
+  .profile {
+    background-color: #fff;
+  }
+  .gallery {
+    background-color: #fcfcfc;
+  }
+}
+.sec {
+  text-align: justify;
+  padding: 100px;
+}
+/*reCAPTCHA*/
+.g-recaptcha > div {
+  margin: 24px auto;
+}
+/*back-ground*/
+header {
+  background-image: url("../images/top-bg.jpg");
+  background-attachment: fixed;
+}
+/*menu*/
+.menu-c {
+  color: #fff;
+  padding-right: 4em;
+  font-size: 18px;
+}
+/*decoration*/
+.water {
+  background-image: url("images/water-bg.jpg");
+  width: 100%;
+  height: 300px;
+  background-position-y: -300px;
+}
