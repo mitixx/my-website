@@ -151,3 +151,10 @@ header {
   height: 300px;
   background-position-y: -300px;
 }
+.sns-color {
+  color: #808080;
+}
+.sns-color:hover {
+  color: #00f;
+  transition: 1s;
+}
