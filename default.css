@@ -15,12 +15,12 @@
   margin-bottom: 12px;
 }
 .works {
-  background-color: #fcfcfc;
+  background-color: #fff;
   padding-bottom: 32px;
   height: 600px;
 }
 .contact {
-  background-image: url("../images/contact-bg.jpg");
+  background-image: url("images/contact-bg.jpg");
 }
 .cneterb {
   background-color: #ffd42a;
@@ -122,7 +122,7 @@ a img {
     background-color: #fff;
   }
   .gallery {
-    background-color: #fcfcfc;
+    background-color: #fff;
   }
 }
 .sec {
@@ -150,4 +150,11 @@ header {
   width: 100%;
   height: 300px;
   background-position-y: -300px;
+}
+.sns-color {
+  color: #808080;
+}
+.sns-color:hover {
+  color: #00f;
+  transition: 1s;
 }
