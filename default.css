@@ -135,7 +135,7 @@ a img {
 }
 /*back-ground*/
 header {
-  background-image: url("../images/top-bg.jpg");
+  background-image: url("/images/top-bg.jpg");
   background-attachment: fixed;
 }
 /*menu*/
